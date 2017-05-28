@@ -1,3 +1,2 @@
-<H1>level 03</H1>
-<H2>lecture 01</H2>
-Простейшая программа
+Javarush Schedule
+|2016.xx.xx| level 00| lecture 00|
