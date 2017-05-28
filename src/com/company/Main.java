@@ -10,6 +10,11 @@ public class Main {
         System.out.println("Hi Amigo"); // lesson 00.02
         int a; // lesson 00.04
         System.out.println("Это не баг, это фича."); // 00.08
+        int a=1; // 01.03
+        int b=2;
+        String name="Wow"; // 01.03
+        System.out.println(name);
+
         Scanner scanner = new Scanner(System.in);
         int result = scanner.nextInt();
         if (result == 0) {
